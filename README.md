@@ -6,22 +6,20 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 👨‍💻 All of my projects are available at (Coming soon)
+- 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
 
-- 📝 Blogs (Coming soon)
+- 📝 Blogs [Coming soon](Coming soon)
 
 - 💬 Ask me about **Front-end development, Databases, Internet of Things, CPP**
 
 - 📫 How to reach me **kirtilodha0@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pUmydGnHCDzRFt3W9Cf17_Z2pKkj10_j/view?usp=sharing](https://drive.google.com/file/d/1pUmydGnHCDzRFt3W9Cf17_Z2pKkj10_j/view?usp=sharing)
-
 - ⚡ Fun fact **I still love to explore new things that are not related to my work in anyway.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<button><a href="https://twitter.com/kirti_lodha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="kirti_lodha_" height="30" width="40" /></a></button>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kirti-lodha-b05059199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kirti-lodha-b05059199/" height="30" width="40" /></a>
+<a href="https://twitter.com/kirti_lodha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="kirti_lodha_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kirti-lodha-b05059199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="kirti-lodha-b05059199/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kirti_lodha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kirti_lodha" height="30" width="40" /></a>
 </p>
 
@@ -31,5 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirtilodha&show_icons=true&locale=en&layout=compact" alt="kirtilodha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirtilodha&show_icons=true&locale=en" alt="kirtilodha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtilodha&" alt="kirtilodha" /></p>
