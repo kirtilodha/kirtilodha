@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **kirtilodha0@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pUmydGnHCDzRFt3W9Cf17_Z2pKkj10_j/view?usp=sharing](https://drive.google.com/file/d/1pUmydGnHCDzRFt3W9Cf17_Z2pKkj10_j/view?usp=sharing)
+
 - ⚡ Fun fact **I still love to explore new things that are not related to my work in anyway.**
 
 <h3 align="left">Connect with me:</h3>
