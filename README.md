@@ -1,7 +1,5 @@
 <h3 align="center">I'm Kirti Lodha currently in 2nd year pursuing Btech. I've been selected as a MLSA in April,2020. I was among the top 12 selected in WIEHACK 3.0 hackathon. Hackathons, innovations, projects, webinars are my favorite kinds of work.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtilodha&label=Profile%20views&color=0e75b6&style=flat" alt="kirtilodha" /> </p>
-
 - 🔭 Interests **Front-end web development, CPP, Python, Linux**
 
 - 🌱 I’m currently learning **Reactjs**
@@ -21,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kirti_lodha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="kirti_lodha_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kirti-lodha-b05059199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="kirti-lodha-b05059199/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kirti-lodha-b05059199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="kirti-lodha-b05059199" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kirti_lodha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kirti_lodha" height="30" width="40" /></a>
 </p>
 
