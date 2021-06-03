@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
+- 👨‍💻 All of my projects are available at (Coming soon)
 
-- 📝 Blogs [Coming soon](Coming soon)
+- 📝 Blogs (Coming soon)
 
 - 💬 Ask me about **Front-end development, Databases, Internet of Things, CPP**
 
