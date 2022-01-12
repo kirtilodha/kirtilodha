@@ -1,6 +1,6 @@
 <h3 align="center">I'm Kirti Lodha currently in 3rd year pursuing Btech. I've been selected as a MLSA in April,2020. I was among the top 12 selected in WIEHACK 3.0 hackathon. Hackathons, innovations, projects, webinars are my favorite kinds of work.</h3>
 
-- 🔭 Interests **Front-end web development, CPP, Python, Linux**
+- 🔭 Interests **Blockchain, Front-end web development, CPP, Python, Linux**
 
 - 🌱 I’m currently learning **Reactjs**
 
