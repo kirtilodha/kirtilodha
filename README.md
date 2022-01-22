@@ -13,7 +13,7 @@
 - 💬 Ask me about **Front-end development, Databases, Internet of Things, CPP**
 
 - 📫 How to reach me **kirtilodha0@gmail.com**
-- 
+
 - ⚡ Fun fact **I still love to explore new things that are not related to my work in anyway.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
