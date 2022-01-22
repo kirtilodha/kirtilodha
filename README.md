@@ -13,9 +13,7 @@
 - 💬 Ask me about **Front-end development, Databases, Internet of Things, CPP**
 
 - 📫 How to reach me **kirtilodha0@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17rcowIejO_kCBAZaii-6kKbJHgiQIXmW/view?usp=sharing)
-
+- 
 - ⚡ Fun fact **I still love to explore new things that are not related to my work in anyway.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
