@@ -10,7 +10,7 @@
 
 - 📝 Blogs [KWOC](https://medium.com/@kirtilodha0/kwoc-kharagpur-winter-of-code-project-report-7b85887c741c)
 
-- 💬 Ask me about **Front-end development, Databases, Internet of Things, CPP**
+- 💬 Ask me about **Blockchain, Front-end development, Databases, Internet of Things, CPP**
 
 - 📫 How to reach me **kirtilodha0@gmail.com**
 
