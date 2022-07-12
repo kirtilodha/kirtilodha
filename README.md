@@ -1,4 +1,4 @@
-<h2>I'm Kirti Lodha 👋 </h2>
+<h2>Hi, I'm Kirti Lodha 👋 </h2>
 I'm a Blockchain developer who is passionate about making Dapps. I'm selected for Google Summer of Code and currently working on an Election Dapp. I'm also doing my research internship as Mitacs GRI'22 at Lakehead University. <br/>
 I'm working as a Microsoft Learn Student Ambassador since 2020. I was among the top 12 selected in WIEHACK 3.0 hackathon. Hackathons, innovations, projects, webinars are my favourite kinds of work. 🌟
 
