@@ -1,4 +1,6 @@
-<h3 align="center">I'm Kirti Lodha 👋 currently in 3rd year pursuing Btech. I've been selected as a MLSA in April,2020. I was among the top 12 selected in WIEHACK 3.0 hackathon. Hackathons, innovations, projects, webinars are my favourite kinds of work. 🌟</h3>
+<h3 align="center">I'm Kirti Lodha 👋 </h3>
+<h4>I'm a Blockchain developer who is passionate about making Dapps. I'm selected for Google Summer of Code and currently working on an Election Dapp. I'm also doing my research internship as Mitacs GRI'22 at Lakehead University.
+I've been selected as a MLSA in April,2020. I was among the top 12 selected in WIEHACK 3.0 hackathon. Hackathons, innovations, projects, webinars are my favourite kinds of work. 🌟</h4>
 
 <p><img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="adam-pw" /></p>
 
